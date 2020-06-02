@@ -178,14 +178,9 @@
           <e p="AudioVisualization.cs" t="Include" />
           <e p="CreatePlane.cs" t="Include" />
           <e p="MicrophonePlayback.cs" t="Include" />
-          <e p="NoiseMapGeneration.cs" t="Include" />
-          <e p="PerlinMovement.cs" t="Include" />
-          <e p="PerlinTerrain.cs" t="Include" />
-          <e p="RandColor.cs" t="Include" />
           <e p="TerrainColor.cs" t="Include" />
-          <e p="TileGeneration.cs" t="Include" />
+          <e p="testperlin.cs" t="Include" />
         </e>
-        <e p="testperlin.cs" t="Include" />
         <e p="TextMesh Pro" t="Include">
           <e p="Fonts" t="Include">
             <e p="LiberationSans - OFL.txt" t="Include" />
