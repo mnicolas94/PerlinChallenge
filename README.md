@@ -6,5 +6,7 @@ Todos los assets (que no son muchos) fueron creados durante la duración del eve
 
 Como documentación de apoyo para la realización del proyecto se consultaron los siguientes links:
 
-- 
+- https://medium.com/giant-scam/algorithmic-beat-mapping-in-unity-intro-d4c2c25d2f27 Este link es de una serie de artículos sobre beat mapping. Está de lo más interesante, lo recomiendo incluso como curiosidad para el que no tenga pensado hacer nada de eso. De aquí saqué cómo calcular la frecuencia fundamental y los armónicos. 
+- http://wiki.unity3d.com/index.php/CreatePlane?_ga=2.188882024.255555665.1591037632-1435871360.1585011956 De aquí saqué cómo crear y manipular el mesh del terreno. 
+- https://gametorrahod.com/various-noise-functions/ De aquí saqué cómo usar el perlin noise vitaminado de Unity Mathematics. Gracias a Pedro @UltraKelevra. 
 
